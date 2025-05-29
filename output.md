@@ -3,28 +3,28 @@
 ## 模型雷达图可视化
 
 ### claude模型
-![](output\claude_radar_chart.png)
+![](output/claude_radar_chart.png)
 
 ### deepseek r1模型
-![](output\deepseek_r1_radar_chart.png)
+![](output/deepseek_r1_radar_chart.png)
 
 ### deepseek r1 开源腾讯元宝模型
-![](output\deepseek_r1_tencent_radar_chart.png)
+![](output/deepseek_r1_tencent_radar_chart.png)
 
 ### deepseek v3模型
-![](output\deepseek_v3_radar_chart.png)
+![](output/deepseek_v3_radar_chart.png)
 
 ### grok模型
-![](output\grok_radar_chart.png)
+![](output/grok_radar_chart.png)
 
 ### 千问开源版模型
-![](output\qwen_open_radar_chart.png)
+![](output/qwen_open_radar_chart.png)
 
 ### 混元-腾讯元宝模型
-![](output\hunyuan_radar_chart.png)
+![](output/hunyuan_radar_chart.png)
 
 ### 通义千问在线模型
-![](output\qwen_online_radar_chart.png)
+![](output/qwen_online_radar_chart.png)
 
 ## 模型评分汇总
 
