@@ -102,9 +102,9 @@ try:
                     elif outputs[1] is not None:
                         cell = f"{outputs[1]} (仅第二次)"
                     else:
-                        cell = "无数据"
+                        cell = "-"
                 else:
-                    cell = "无数据"
+                    cell = "-"
                 
                 row += f" | {cell}"
             
